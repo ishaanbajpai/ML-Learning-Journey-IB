@@ -2,11 +2,11 @@ A Simple repo storing my learning journey in ML core libraries, and a few hands 
 
 You need to learn python first in order to continue to below modules. You can start from exercism.com to learn and pratice or hackerrank to practice only if you know python. Try to stick to one platform and keep learning there.
 
-<< You might make mistakes often but do not worry, we all start somehwhere. Making mistakes is just telling you that you are going in the right direction. >>
+<< You might make mistakes often but do not worry, we all start somehwhere. Making mistakes is just telling you that you are going in the right direction. :)) >>
 
 Intro to ML: https://developers.google.com/machine-learning/intro-to-ml
 If you are new to ML and do not know anything, go through this above course, wherever stuck tell your goal and ask gpt to explain you in the simplest way possible.
-There are multiple exercises in between to valuate what you understood, you can ask GPT to give you small assessments to evaluate yourself too.
+There are multiple exercises in between to evaluate what you understood, you can ask GPT to give you small assessments to evaluate yourself too.
 
 ML Crash Course: https://developers.google.com/machine-learning/crash-course
 This takes you ML journey to next level, you can go through this course to learn the ML in the most crisp manner. It will teach you basics and intermediate things both. Remember to make notes!!
