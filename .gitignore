@@ -1,0 +1,7 @@
+*.npy
+*.txt
+*.csv
+*.file
+np_array_3d
+np_array_txt
+*.npz
